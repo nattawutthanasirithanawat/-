@@ -1,0 +1,17 @@
+{
+  "m13FormUrl": "https://forms.gle/ThaiLangContestM13Example",
+  "m46FormUrl": "https://forms.gle/ThaiLangContestM46Example",
+  "scoreSheetId": "1gR6uLz9qV8y4Xo8wKx9lThaiM13M46ScoreSheet",
+  "scoreSheetName": "คะแนนแบบทดสอบ",
+  "certificateSheetId": "1gR6uLz9qV8y4Xo8wKx9lThaiM13M46CertificateSheet",
+  "certificateSheetName": "ข้อมูลเกียรติบัตร",
+  "countdownTarget": "2026-11-25T16:30:00+07:00",
+  "passingPercentage": 60,
+  "maxScoreDefault": 30,
+  "projectTitle": "โครงการส่งเสริมและพัฒนาความรู้ความสามารถด้านภาษาไทย : สืบศิลป์ถิ่นอักษร สืบสุนทรภาษาไทย",
+  "schoolName": "โรงเรียนกระทุ่มแบน \"วิเศษสมุทคุณ\"",
+  "isExamOpen": true,
+  "certificatePdfColumn": "pdf_link",
+  "adminPassword": "696667***",
+  "lastUpdated": "2026-11-06T07:00:00.000Z"
+}
